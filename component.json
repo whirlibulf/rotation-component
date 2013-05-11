@@ -1,0 +1,14 @@
+{
+  "name": "rotation-component",
+  "repo": "whirlibulf/rotation-component",
+  "description": "Component for storing rotation of an object in the whirlibulf game engine",
+  "version": "0.0.1",
+  "keywords": ["whirlibulf", "rotation"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
