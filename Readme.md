@@ -10,8 +10,6 @@ A component for storing the rotation angle of an object in the whirlibulf game e
 
 ## Usage
 
-The component ID is `rotation`.
-
 Register the component:
 
     game.addComponent('rotation', require('rotation-component'));
