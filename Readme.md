@@ -14,8 +14,7 @@ The component ID is `rotation`.
 
 Register the component:
 
-    var component = require('rotation-component');
-    game.addComponent(new component());
+    game.addComponent('rotation', require('rotation-component'));
 
 The options object for this component:
 
