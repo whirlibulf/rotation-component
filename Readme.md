@@ -12,7 +12,7 @@ A component for storing the rotation angle of an object in the whirlibulf game e
 
 Register the component:
 
-    game.addComponent('rotation', require('rotation-component'));
+    game.use('rotation', require('rotation-component'));
 
 The options object for this component:
 
